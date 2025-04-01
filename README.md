@@ -1,6 +1,6 @@
-ProjetVRPsae601
+Projet VRP
 ==================
-# 👋 Presentation
+# Presentation
 
 Ce projet a été réalisé dans le cadre de la troisième année du BUT Informatique. Il s’inscrit dans une démarche de résolution algorithmique et d’optimisation, appliquée au **Vehicle Routing Problem (VRP)** – un problème d’optimisation combinatoire consistant à planifier les tournées d’une flotte de véhicules pour livrer une liste de clients tout en minimisant les coûts.
 
